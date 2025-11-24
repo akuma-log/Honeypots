@@ -1,6 +1,6 @@
 ### SSH honeypot fully customizable. 
 ```
-└─ ⚔ python3 sshpot.py -h                                                                                            [ 6:56PM 2 ⨯ ]
+└─ ⚔ python3 sshpot.py -h                                             
 usage: sshpot.py [-h] [-i INTERFACE] [-p PORT] [--hide-attempts] [--no-banner]
 
 SSH Honeypot - Capture SSH authentication attempts
